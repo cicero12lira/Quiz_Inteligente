@@ -1,4 +1,4 @@
-# Quiz_Inteligente
+# Quiz_Inteligente em Python
 
 Projeto pessoal feito em Python - Quiz inteligente.
 
